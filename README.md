@@ -60,7 +60,8 @@
 
 ## Companies
 
-*Open-source Projects using Earthly.*
+*Companies using Earthly.*
+
 *Create a PR to add your own*
 
 * [Namely](https://www.namely.com/)
