@@ -72,10 +72,15 @@
 * [Improving Testing & Continuous Integration in Phoenix](https://www.phoenixframework.org/blog/improving-testing-and-continuous-integration-in-phoenix) - How the Phoenix Framework used Earthly to improve how they test. 
 * [Hacker Noon Earthly Interview](https://hackernoon.com/startup-interview-with-adam-gordon-bell-earthly-developer-relations-9z1z35h1) - Hacker Noon interview about about Earthly's backstory.
 * [Console.dev Earthly Interview](https://console.dev/interviews/earthly-adam-gordon-bell/) - Console.dev Interview about Earthly.
-* ...
+* [Using Earthly to Build Replay](https://dmiller.dev/blog/using-earthly-to-build-replay) - Using Earthly to build Replay.io
 
 ## Podcasts and Talks
-coming soon
+* [What if dockerfiles and makefiles had a baby?](https://www.youtube.com/watch?v=bL432C2Hqfo) - Talk at DevOps Exchange given about Earthly 
+* [Quick Tutorial: Build a Go App in Earthly](https://www.youtube.com/watch?v=B7Q7S2lpshw)
+* [Earthly: Build Automation with Vlad Ionescu](https://softwareengineeringdaily.com/2021/03/01/earthly-with-vlad-ionescu/) - Software Engineering Daily Interview 
+* [Earthly and CLI Productivity with Adam Gordon Bell](https://softwareengineeringdaily.com/2021/09/15/earthly-and-cli-productivity-with-adam-gordon-bell/) - Software Engineering Daily Interview on Earthly
+* [Earthly at Stack Overflow Podcast](https://stackoverflow.blog/2020/12/11/podcast-294-cleaning-up-build-systems-and-gathering-computer-history/) - The Stack Overflow crew talks Adam Gordon Bell, Director of Developer Relations at Earthly.
+* [Dev Tool Time Talk](https://www.youtube.com/watch?v=oPaPhFX7SeM) - Earthly is covered near the end of talk.
 
 ## Other Links
 
