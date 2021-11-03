@@ -64,12 +64,14 @@
 *Create a PR to add your own*
 
 * [Namely](https://www.namely.com/)
+* [ExpressVPN](https://www.expressvpn.com/)
 * [Replay.io](https://www.replay.io/)
-* [ExpressVPN](https://www.replay.io/)
 
 ## Blogs and Articles
-* [Improving Testing & Continuous Integration in Phoenix](https://www.phoenixframework.org/blog/improving-testing-and-continuous-integration-in-phoenix)
-* 
+* [Improving Testing & Continuous Integration in Phoenix](https://www.phoenixframework.org/blog/improving-testing-and-continuous-integration-in-phoenix) - How the Phoenix Framework used Earthly to improve how they test. 
+* [Hacker Noon Earthly Interview](https://hackernoon.com/startup-interview-with-adam-gordon-bell-earthly-developer-relations-9z1z35h1) - Hacker Noon interview about about Earthly's backstory.
+* [Console.dev Earthly Interview](https://console.dev/interviews/earthly-adam-gordon-bell/) - Console.dev Interview about Earthly.
+* ...
 
 ## Podcasts and Talks
 coming soon
