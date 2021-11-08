@@ -1,4 +1,4 @@
-# <a href="https://awesome-go.com/"><img align="right" src="https://raw.githubusercontent.com/earthly/earthly/main/img/logo-banner-white-bg.png" alt="awesome-go" title="awesome-go" /></a> Awesome Earthly
+# <a href="https://earthly.dev/"><img align="right" src="https://raw.githubusercontent.com/earthly/earthly/main/img/logo-banner-white-bg.png" alt="awesome-earthly" title="awesome-earthly" /></a> Awesome Earthly
 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
