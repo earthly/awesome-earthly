@@ -82,6 +82,7 @@
 * [Earthly and CLI Productivity with Adam Gordon Bell](https://softwareengineeringdaily.com/2021/09/15/earthly-and-cli-productivity-with-adam-gordon-bell/) - Software Engineering Daily Interview on Earthly
 * [Earthly at Stack Overflow Podcast](https://stackoverflow.blog/2020/12/11/podcast-294-cleaning-up-build-systems-and-gathering-computer-history/) - The Stack Overflow crew talks Adam Gordon Bell, Director of Developer Relations at Earthly.
 * [Dev Tool Time Talk](https://www.youtube.com/watch?v=oPaPhFX7SeM) - Earthly is covered near the end of talk.
+* [Achieve Repeatable Builds Of Your Software On Any Machine With Earthly](https://www.pythonpodcast.com/earthly-repeatable-build-tool-episode-351/) - Podcast.\_\_init\_\_ had Vlad A. Ionescu as a guest to talk about Earthly and modern build challenges.
 
 ## Other Links
 
