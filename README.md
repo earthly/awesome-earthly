@@ -68,6 +68,7 @@
 * [ExpressVPN](https://www.expressvpn.com/)
 * [Replay.io](https://www.replay.io/)
 * [RecoLabs.ai](https://www.recolabs.ai/)
+* [Posit, PBC](https://posit.co/)
 
 ## Blogs and Articles
 * [Improving Testing & Continuous Integration in Phoenix](https://www.phoenixframework.org/blog/improving-testing-and-continuous-integration-in-phoenix) - How the Phoenix Framework used Earthly to improve how they test. 
