@@ -21,8 +21,6 @@
 
 * [earthly-emacs mode](https://github.com/earthly/earthly-emacs)
 * [earthly github action](https://github.com/earthly/actions-setup) - Setup earthly in your GitHub Actions workflow.
-* [tree-sitter-earthfile](https://github.com/glehmann/tree-sitter-earthfile) - [Tree-sitter](https://tree-sitter.github.io/) grammar and highlight queries
-  for `Earthfile`s.
 * [tree-sitter-earthfile](https://github.com/glehmann/tree-sitter-earthfile) -
   [Tree-sitter](https://tree-sitter.github.io/) grammar and highlight queries for `Earthfile`s — for
   [neovim](https://neovim.io/) or any other tree-sitter enabled editor.
